@@ -1,0 +1,161 @@
+body{
+    overflow-x: hidden;
+}
+h3{
+    position: relative;
+    bottom: 8px;
+}
+.bordetitulo{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: rgb(19, 19, 19);
+    width: 100%;
+    height: 100px;
+    color: white;
+    font-family: 'EA Font v1.5 by Ghettoshark', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.bordeizq{
+    position: absolute;
+    right: 95%;
+    bottom: 1px;
+    background-color: crimson;
+    width: 200px;
+    height: 100%;
+    padding: 30px;
+}
+.bordederch{
+    position: absolute;
+    left: 95%;
+    bottom: 1px;
+    background-color: crimson;
+    width: 200px;
+    height: 100%;
+    padding: 30px;
+}
+.bordeizq1{
+    position: absolute;
+    right: 95%;
+    background-color: crimson;
+    width: 200px;
+    height: 200%;
+    padding: 30px;
+}
+.bordederch1{
+    position: absolute;
+    left: 95%;
+    background-color: crimson;
+    width: 200px;
+    height: 200%;
+    padding: 30px;
+}
+.imgP{
+    margin-top: 60px;
+    width: 217.5px;
+    height: 364.5px;
+}
+.leyenda{
+    
+    text-align: center;
+    margin-left: 130px;
+    float: left;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.masinfo1{
+    margin: auto;
+    margin-top: 35%;
+    width: 350px;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 10px;
+    font-family: 'EA Font v1.5 by Ghettoshark', sans-serif;
+    padding: 15px;
+}
+
+
+
+
+.titulo{
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+h2{
+    position: relative;
+    text-align: center;
+    bottom: 55px;
+}
+.imagenl{
+    width: 630px;
+    height: 1296px;
+    float: left;
+}
+.descripcion{
+    float: left;
+    width: 50%;
+    text-align: center;
+    font-size: 65px;
+    color: black;
+}
+.descripcion1{
+    float: left;
+    width: 50%;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+}
+.barraesp{
+    float: left;
+    position: relative;
+    right: 10px;
+    width: 101%;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+.categoria{
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.categoriadesc{
+    font-size: 30px;
+    color: white;
+}
+.tactica{
+    float: left;
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.tacticadesc{
+    float: left;
+    font-size: 25px;
+    color: white;
+}
+
